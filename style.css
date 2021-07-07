@@ -13,7 +13,9 @@
     background-color: blue;
     position: relative;
     top: 150px;
-    animation: jmp 1s infinite;
+}
+.animate{
+    animation: jmp 500ms;
 }
 #obs{
     width: 20px;

@@ -15,7 +15,7 @@
     top: 150px;
 }
 .animate{
-    animation: jmp 500ms;
+    animation: jmp 500ms infinite;
 }
 #obs{
     width: 20px;

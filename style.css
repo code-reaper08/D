@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#game {
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+}
+#player{
+    width: 20px;
+    height: 50px;
+    background-color: blue;
+    position: relative;
+    top: 150px;
+}
